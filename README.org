@@ -1,0 +1,11 @@
+#+title: Funcional
+
+Conceitos básicos de programação funcional como:
+- listas ligadas
+- funções de alta ordem
+- lógica booleana com cálculo lambda
+- casamento de padrões
+
+OBS: Atualmente não há uma organização nesse repositório, fiz esses arquivos/exemplos tentando explicar para um colega sobre programação funciona (introdução à ReScript) e fui codando algumas coisas. Talvez eu organize ou só vá subindo alguns códigos aleatórios mesmo.
+
+Pretendo pelo menos colocar as referências para quem quiser se aprofundar nos estudos.
